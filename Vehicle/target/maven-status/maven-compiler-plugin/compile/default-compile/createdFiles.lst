@@ -1,0 +1,12 @@
+org\rplbo\utsvehicle\Wheel.class
+org\rplbo\utsvehicle\Engine.class
+org\rplbo\utsvehicle\MotorVehicle.class
+org\rplbo\utsvehicle\Wagon.class
+org\rplbo\utsvehicle\Main.class
+org\rplbo\utsvehicle\Transmission.class
+org\rplbo\utsvehicle\App.class
+org\rplbo\utsvehicle\Truck.class
+org\rplbo\utsvehicle\Vehicle.class
+org\rplbo\utsvehicle\Tire.class
+org\rplbo\utsvehicle\Car.class
+org\rplbo\utsvehicle\Bus.class
